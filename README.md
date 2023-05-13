@@ -9,8 +9,7 @@ Realizar requisições de materiais, organizar agendamentos para eventos, alerta
   
   Sendo assim, elaborei a proposta de projeto para solução de uma necessidade para instituição de ensino conceitual "Escola Vencer Sempre".onde, passam pelo problema de dificuldades durante o processo do atendimento, organização e eficiência ao agendamento de locação dos recursos audiovisuais (Tvs, Datashow, computadores, Aparelho de som, DvD entre outros). 
 
-###########################################################################################################################
-
+#
 ### Foi utilizado o maxímo de resursos com modalidade free tier que podem atender as necessidades de tecnologia.
 
 # Arquitetura da Solução
