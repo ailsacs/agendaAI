@@ -1,7 +1,7 @@
 # agendaAI
   Com esse repósitório destaco os pontos estudados para projeto de PIM da instituição UNIP. Realizei a entrega de um webhook server para processamento de interações via chatbot, dentro de uma solução para requisição e agendamento de eventos integrados com o serviço Google Calendar.
   
-  Atualmente os recursos e necessidades do cotidiano junto a soluções possíveis para otimização de tarefas manuais trazem destaque para utilização de processos automatizados. 
+ \n Atualmente os recursos e necessidades do cotidiano junto a soluções possíveis para otimização de tarefas manuais trazem destaque para utilização de processos automatizados. \n
   Organizações precisam desenvolver processos focados em eficiência para melhor aproveitamento do tempo, além de minizar o desgaste de agentes dedicados, os processos manuais de tarefas simples que o processo automatizado pode atender a solução. 
   Realizar requisições de materiais, organizar agendamentos para eventos, alertas de lembretes e ter registros seguros e confiáveis são atividades que exigem atenção e podem passar por processos amigáveis e automátizados. 
   Sendo assim, elaborei a proposta de projeto para solução de uma necessidade para instituição de ensino conceitual "Escola Vencer Sempre".
