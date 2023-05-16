@@ -17,11 +17,16 @@ Realizar requisições de materiais, organizar agendamentos para eventos, alerta
  
 # Ferramentas
 - Fluxo de chatbot: Dialogflow (Solução do Google cloud)
+- https://dialogflow.cloud.google.com/
 - webhook server: Glitch (Free)
+- https://help.glitch.com/kb/
 - Back-end: Node.JS
+- https://nodejs.org/en/docs
 - Recursos: Google.API
+- https://console.cloud.google.com/apis/library?project=light-depot-383621
 - Segurança: Auth API
 - API creator : Sheet.Best
+- https://sheetbestdocs.netlify.app/#quickstart
   
   
   
